@@ -1,12 +1,21 @@
 1. WAP to find out the smallest and largest element stored in an array of n integers.
+smlarg.c
+
 2.WAP to reverse the contents of a dynamic array of n elements.
+revDMA.c
+
 3.WAP to search an element in a dynamic array of n numbers.
+search.c
+
 4.WAP to sort a dynamic array of n numbers.
+sort.c
+
 5.Given an unsorted dynamic array of size n, WAP to find and display the number of elements between two elements a and b (both inclusive). E.g. Input : arr = [1, 2, 2, 7, 5, 4], a=2 and b=5, Output : 4 and the numbers are: 2, 2, 5, 4.
+betw.c
+
 6.Given a dynamic array, WAP to print the next greater element (NGE) for every element. The next greater element for an element x is the first greater element on the right side of x in array. Elements for which no greater element exist, consider next greater element as -1. E.g. For the input array [2, 5, 3, 9, 7], the next greater elements for each elements are as follows.
 
 Element             NEG
-
 
 2                         5
 5                         9
@@ -14,9 +23,11 @@ Element             NEG
 9                         -1
 7                         -1
 
+NGE.c
 
 7. Let A be nXn square dynamic matrix. WAP by using appropriate user defined functions for the following:
 a) Find the number of nonzero elements in A
 b) Find the sum of the elements above the leading diagonal.
 c) Display the elements below the minor diagonal.
 d) Find the product of the diagonal elements.
+mat.c
