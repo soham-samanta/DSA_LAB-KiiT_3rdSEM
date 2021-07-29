@@ -32,15 +32,24 @@ int main(){
             r = i+1;
         }        
     }
-    printf("displaying the elements between a and b: \n");
-    for(int i=l-1;i<=r-1;i++){
-        printf("%d",A[i]);
-    }
+//     printf("displaying the elements between a and b: \n");
+//     for(int i=l-1;i<=r-1;i++){
+//         printf("%d",A[i]);
+//     }
 
     // if(l == -1 || r == -1) 
     // printf("\nINVALID, Please enter correct range!");
     // else 
     // printf("\nNumber of elements between %d and %d is:  %d ",a,b,(abs(l-r)+1));
+    
+    if(l == -1 || r == -1) 
+    printf("\nINVALID, Please enter correct range!");
+    else{
+        printf("displaying the elements between a and b: \n");
+    for(int i=l-1;i<=r-1;i++){
+        printf("%d",A[i]);
+      }
+    }
     
     printf("\n");
     
