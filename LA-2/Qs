@@ -1,0 +1,20 @@
+1. WAP to calculate x^y(x power y) by writing a function(say POWER) for it.
+2.WAP to test whether a number n is palindrome number or not using function.
+3.WAP to count number of digits of a positive integer n by using recursion.
+4. WAP to find the first digit of a number using function. Example : if the number is 1234. output is 1.
+5. WAP to read a number and delete the even location digit of that number.Example : i) input 1234. output is 13.
+ii) input 357 output is 37
+iii) input 7637272 output is 7322
+6. WAP to test whether a number num (num is entered through keyboard) is a number in the Fibonacci sequence or not.
+7.WAP to find out the sum of n elements of an integer array a[] by using recursion.
+8.WAP to find the LCM of two numbers a and b by using a suitable function (say LCM) for this.
+9. WAP by designing a recursive function to calculate the sum of all even digits of any given integer.
+10. WAP to find the factorial of a number n by writing a recursive function for it.
+11. WAP to store n employee’s data such as employee name, gender,
+designation, department, basic pay. Calculate the gross pay of each
+employees as follows:
+Gross pay = basic pay + HR + DA
+HR=25% of basic and DA=75% of basic.
+12.WAP to add two distances (in km-meter) by passing structure to a function.
+13. Modify 12 to return a structure pointer
+14.WAP return an array of structure using pointer.
