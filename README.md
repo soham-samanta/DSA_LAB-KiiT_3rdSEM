@@ -33,6 +33,6 @@ Instructions: Open the following LA/HA folder (for eg LA-1 or La-2) . Then Searc
   <img align="center" alt="Soham's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
 <a href="https://www.facebook.com/soham.samnata">
-  <img align="center" alt="Soham's Facebook" width="25px" src="Assets/facebook.png" />
+  <img align="center" alt="Soham's Facebook" width="25px" src="https://img.shields.io/badge/-FB-000?&logo=facebook&logoColor=1572B6" />
 </a>
 <br>
