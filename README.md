@@ -24,15 +24,15 @@ Instructions: Open the following LA/HA folder (for eg LA-1 or La-2) . Then Searc
   <img align="center" alt="Soham's Github" width="25px" src="https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=1572B6" />
 </a>
 <a href="https://www.hackerrank.com/sohamsamanta2?hr_r=1">
-  <img align="center" alt="Soham's Hackerrank" width="25px" src="https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=47A248" />
+  <img align="center" alt="Soham's Hackerrank" width="125px" src="https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=47A248" />
 </a>
 <a href="https://www.codechef.com/users/soham_cp_noob">
-  <img align="center" alt="Soham's Codechef" width="25px" src="https://img.shields.io/badge/-CodeChef-000?&logo=codechef&logoColor=ddc508" />
+  <img align="center" alt="Soham's Codechef" width="125px" src="https://img.shields.io/badge/-CodeChef-000?&logo=codechef&logoColor=ddc508" />
 </a>
 <a href="mailto:sohamsamanta2@gmail.com?subject=Hey%20Soham,%20From%20Github">
-  <img align="center" alt="Soham's Gmail" width="25px" src="https://img.shields.io/badge/-Gmail-000?&logo=gmail&logoColor=F05032" />
+  <img align="center" alt="Soham's Gmail" width="125px" src="https://img.shields.io/badge/-Gmail-000?&logo=gmail&logoColor=F05032" />
 </a>
 <a href="https://www.facebook.com/soham.samnata">
-  <img align="center" alt="Soham's Facebook" width="25px" src="https://img.shields.io/badge/-Facebook-000?&logo=facebook&logoColor=1572B6" />
+  <img align="center" alt="Soham's Facebook" width="125px" src="https://img.shields.io/badge/-Facebook-000?&logo=facebook&logoColor=1572B6" />
 </a>
 <br>
