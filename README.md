@@ -1,17 +1,21 @@
 # DSA_LAB-KiiT_3rdSEM
 
 # DISCLAIMER: These Solutions are only for educational purpose. Please don't missuse. 
-# NOTE: Always try to code yourself. Solutions(Editorials) are just for help/hint. NEVER BLINDLY COPY!
 
 This Repository Contains all the solutions for the DSA Lab assignments of 3rd semester, KiiT University.
 
-LA = Lab Assignments
+- LA = Lab Assignments
 </a>
-HA = Home Assingment 
+- HA = Home Assingment 
 </a>
-
+<br>
+<hr>
 Check the DSA-LAB manual for all the Questions (LAs & HAs)
-Instructions: Open the following LA/HA folder (for eg LA-1 or La-2) . Then Search for Qs file for the Questions. Each Question has solution as file_name.c . Check for the same Solution file in the folder.
+Instructions: 
+- Open the following LA/HA folder (for eg LA-1 or La-2) . 
+- Then Search for Qs file for the Questions. 
+- Each Question has solution as file_name.c . 
+- Check for the same Solution file in the folder.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/soham-samanta-5732b41b5/">
@@ -36,3 +40,5 @@ Instructions: Open the following LA/HA folder (for eg LA-1 or La-2) . Then Searc
   <img align="center" alt="Soham's Facebook" width="90px" src="https://img.shields.io/badge/-Facebook-000?&logo=facebook&logoColor=1572B6" />
 </a>
 <br>
+
+# NOTE: Always try to code yourself. Solutions(Editorials) are just for help/hint. NEVER BLINDLY COPY!
