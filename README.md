@@ -10,6 +10,12 @@ This Repository Contains all the solutions for the DSA Lab assignments of 3rd se
 </a>
 <br>
 <hr>
+
+- I'm a 4⭐coder at [Codechef](https://www.codechef.com/users/soham_cp_noob). 5⭐at [HackerRank](https://www.hackerrank.com/sohamsamanta2?hr_r=1) {in C++ and Java}.
+- <b>Current Intern at [Knitter](https://www.linkedin.com/company/knitter/)</b> at the position of Android Developer Intern.
+- <b>Ex-Director at [Qualbuy Multicorp Pvt.Ltd.](https://www.sharexindustries.com/)</b> Formerly known as ShareX Academy.
+- <b>Highest achievement: [Google CodeJam 2021](https://drive.google.com/file/d/1AX-W4pBfTZm7JXK3FBMJd9vY1Pi86kUP/view)</b> Global Rank: 3997 (in Round 1B) among 38k participants.
+- 
 Check the DSA-LAB manual for all the Questions (LAs & HAs)
 Instructions: 
 - <b>Open the following LA/HA folder (for eg LA-1 or La-2) . 
