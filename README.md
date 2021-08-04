@@ -6,9 +6,7 @@ This Repository Contains all the solutions for the DSA Lab assignments of 3rd se
 
 - LA = Lab Assignments
 - <b>HA = Home Assingment 
-<br>
 <hr>
-
 - Check the DSA-LAB manual for all the Questions (LAs & HAs)
 
 # Instructions: 
