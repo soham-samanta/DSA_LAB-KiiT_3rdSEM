@@ -6,16 +6,16 @@ This Repository Contains all the solutions for the DSA Lab assignments of 3rd se
 
 - LA = Lab Assignments
 </a>
-- HA = Home Assingment 
+- <b>HA = Home Assingment 
 </a>
 <br>
 <hr>
 Check the DSA-LAB manual for all the Questions (LAs & HAs)
 Instructions: 
-- Open the following LA/HA folder (for eg LA-1 or La-2) . 
-- Then Search for Qs file for the Questions. 
-- Each Question has solution as file_name.c . 
-- Check for the same Solution file in the folder.
+- <b>Open the following LA/HA folder (for eg LA-1 or La-2) . 
+- <b>Then Search for Qs file for the Questions. 
+- <b>Each Question has solution as file_name.c . 
+- <b>Check for the same Solution file in the folder.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/soham-samanta-5732b41b5/">
