@@ -1,0 +1,25 @@
+### Questions
+
+1.Given an unsorted dynamic array arr and two numbers x and y, find the minimum distance between x and y in arr. The array might also contain duplicates. You may assume that both x and y are different and present in arr.
+Input: arr[] = {3, 5, 4, 2, 6, 5, 6, 6, 5, 4, 8, 3}, x = 3, y = 6
+Output: Minimum distance between 3 and 6 is 4.
+
+2.WAP to find out the second smallest and second largest element stored in a dynamic array.
+
+3.WAP to arrange the elements of a dynamic array such that all even numbers are followed by all odd numbers.
+
+4.Write a program to replace every element in the dynamic array with the next greatest element present in the same array.
+
+5.WAP to replace every dynamic array element by multiplication of previous and next of an n element.
+
+6.WAP to sort rows of a dynamic matrix having m rows and n columns in ascending and columns in descending order.
+
+7.WAP to find out the kth smallest and kth largest element stored in a dynamic array of n integers, where k<n.
+
+8.WAP to find the largest number and counts the occurrence of the largest number in a dynamic array of n integers using a single loop.
+
+9.You are given an array of 0s and 1s in random order. Segregate 0s on left side and 1s on right side of the array. Traverse array only once.
+
+10.WAP to swap all the elements in the 1st column with all the corresponding elements in the last column, and 2nd column with the second last column and 3rd with 3rd last etc. of a 2-D dynamic array. Display the matrix.
+
+11.WAP to arrange the elements of a dynamic array such that all even numbers are followed by all odd numbers using a single loop.
