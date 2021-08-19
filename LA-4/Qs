@@ -3,8 +3,10 @@
 Q1.WAP to store n employee’s data such as employee name, gender,designation, department, basic pay. Calculate the gross pay of eachemployees as follows:
 Gross pay = basic pay + HR + DA
 HR=25% of basic and DA=75% of basic.
+Answer: 1.c
 
 Q2.WAP to add two distances (in km-meter) by passing structure to a function.
+Answer: 2.c
 
 Q3.Writea program to perform the following operations in a singlelinked list by using suitable user defined functions for each case separately.
     a) create a link list
@@ -18,3 +20,4 @@ Q3.Writea program to perform the following operations in a singlelinked list by 
     i) count total number of odd and even elements.
     j) count how many primes are there in the linked list
     k) check the linked list is palindrome or not.
+Answer: 3.c
