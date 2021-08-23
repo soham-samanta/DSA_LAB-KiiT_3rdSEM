@@ -1,0 +1,29 @@
+### QUESTIONS
+
+1.WAP to swap kth node from beginning with kth node from end in a Linked List
+Ans: 1.c
+
+2.Given a linked list, write a function to reverse every k nodes. (where k isan input to the function). If a linked list is given as
+12->23->45->89->15->67->28->98->NULL and k = 3
+then output will be 45->23->12->67->15->89->98->28->NULL.
+Ans: 2.c
+
+3.Given a singly linked list, rotate the linked list counter-clockwise by k nodes. Where k is a given positive integer. 
+For example, if the given linked list is 10->20->30->40->50->60 and k is 4, the
+list should be modified to 50->60->10->20->30->40. Assume that k is smaller than the count of nodes in linked list.
+Ans: 3.c
+
+4. WAP to insert a new node at the beginning of a doubly linked list.
+Ans: 4.c
+
+5. WAP to delete a node after a certain node of a single circular linked list.
+Ans: 5.c
+
+6. WAP to insert a new node at the beginning of a single circular linked list.
+Ans: 6.c
+
+7.WAP to remove the duplicates in a sorted double linked list.
+Ans: 7.c
+
+8. WAP to check whethere a doubly llinked list is palindrome or not.
+Ans: 8.c
