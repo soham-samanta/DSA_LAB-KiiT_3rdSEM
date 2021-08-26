@@ -27,10 +27,10 @@ This Repository Contains all the solutions for the DSA Lab assignments of 3rd se
   <img align="center" alt="Soham's Github" width="90px" src="https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=1572B6" />
 </a> -->
 <a href="https://www.hackerrank.com/sohamsamanta2?hr_r=1">
-  <img align="center" alt="Soham's Hackerrank" width="90px" src="https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=47A248" />
+  <img align="center" alt="Soham's Hackerrank" width="100px" src="https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=47A248" />
 </a>
   <a href="https://auth.geeksforgeeks.org/user/sohamsamanta2">
-  <img align="center" alt="Soham's GFG" width="128px" src="https://img.shields.io/badge/-GeeksForGeeks-000?&logo=geeksforgeeks&logoColor=green" />
+  <img align="center" alt="Soham's GFG" width="120px" src="https://img.shields.io/badge/-GeeksForGeeks-000?&logo=geeksforgeeks&logoColor=green" />
 </a>
 <a href="https://www.codechef.com/users/soham_cp_noob">
   <img align="center" alt="Soham's Codechef" width="90px" src="https://img.shields.io/badge/-CodeChef-000?&logo=codechef&logoColor=ddc508" />
