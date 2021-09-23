@@ -1,0 +1,37 @@
+1.WAP Write a menu driven program to perform the following
+operations of a stack using array by using suitable user defined
+functions for each case.
+  a) Check if the stack is empty 
+  b) Display the contents of stack 
+  c) Push 
+  d) Pop
+Ans:1.c
+
+2.WAPto create a menu driven program to perform the following operations of a
+stack using linked list by using suitable user defined functions for
+each case.
+Ans:2.c
+
+3.WAP to convert an infix expression into its equivalent postfix notation
+Ans:3.c
+
+4.WAP to convert an infix expression into its equivalent prefix notation.
+Ans:4.c
+
+5.Twobrackets are considered to be a matched pair if the an opening bracket
+(i.e., (, [, or { ) occurs to the left of a closing bracket (i.e., ), ],
+or }) of the exact same type. There are three types of matched pairs of
+brackets: [], {}, and (). A matching pair of brackets is not balanced
+if the set of brackets it encloses are not matched. WAP to determine
+whether the input sequence of brackets is balanced or not. If a string
+is balanced, it print YES on a new line; otherwise, print NO on a new line.
+Example: Input: {[()]} and Output: YES
+Input: {[(])} and Output: NO
+Ans:5.c
+
+6.WAP to reverse a stack with using extra stack.
+Ans:6.c
+
+7.WAP to sort the elements inside a stack using only push and pop operation. 
+Any number of additional stacks may be used.
+Ans:7.c
