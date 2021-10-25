@@ -1,0 +1,32 @@
+1.WAP to reverse a stack with using extra stack.
+Ans: 1.c
+
+2.WAP to sort the elements inside a stack using only push and pop operation.
+Any number of additional stacks may be used.
+Ans: 2.c
+
+3.WAP using a function that sort an array of integers using stacks and also uses bubble sort
+Ans: 3.c
+
+4.In a party of N people, only one person is known to everyone. Such a person may be present in the party, if yes, (s)he doesn’t know anyone in
+the party. We can only ask questions like “does A know B? “. WAP to find the stranger (celebrity) in minimum number of questions.
+Ans: 4.c
+
+5.WAP exhibiting Tower of Hanoi (recursive).
+Ans: 5.c
+
+6.WAP to implement a stack which will support three additional operations in addition to push and pop
+  a) peekLowestElement - return the lowest element in the stack without removing it from the stack
+  Ans: 6a.c
+
+  b) peekHighestElement - return the highest element in the stack without removing it from the stack
+  Ans: 6b.c
+
+  c) peekMiddleElement - return the (size/2+1)th lowest element in the stack without removing it from the stack.
+  Ans: 6c.c
+
+7. Write a menu driven program to implement Priority Quque using linklist.
+Ans: 7.c
+
+8. Write a menu driven program to implement Priority Quque using array.
+Ans: 8.c
