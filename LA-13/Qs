@@ -1,31 +1,31 @@
 PERFORM OPERATION ON BST------------------
 
 1.To count number of leaf nodes in the tree.
-Ans: 1.c
+Ans: 1-9.c
 
 2.To count number of non-leaf nodes in the tree.
-Ans: 2.c
+Ans: 1-9.c
 
 3. To find number of nodes in the tree.
-Ans: 3.c
+Ans: 1-9.c
 
 4. To find sum of all nodes of the tree.
-Ans: 4.c
+Ans: 1-9.c
 
 5. To print depth of the tree.
-Ans: 5.c
+Ans: 1-9.c
 
 6. To find nodes which are at maximum depth in the tree?
-Ans: 6.c
+Ans: 1-9.c
 
 7. To print all the elements of kth level in single line.
-Ans: 7.c
+Ans: 1-9.c
 
 8. To find the common ancestor and print the paths.
-Ans: 8.c
+Ans: 1-9.c
 
 9.To check whether a tree is a binary search tree or not.
-Ans: 9.c
+Ans: 1-9.c
 
 10. WAP to perform insert and traverse and delete operation on a Threaded binary tree.
 Ans: 10.c
